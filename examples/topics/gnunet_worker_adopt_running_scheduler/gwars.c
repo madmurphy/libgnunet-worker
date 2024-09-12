@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <gnunet/platform.h>
-#include <gnunet/gnunet_scheduler_lib.h>
+#include <unistd.h>
+#include <gnunet/gnunet_util_lib.h>
 #include <gnunet/gnunet_worker_lib.h>
 
 

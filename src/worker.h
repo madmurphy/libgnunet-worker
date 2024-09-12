@@ -40,10 +40,7 @@
 #include <stdatomic.h>
 #include <time.h>
 #include <pthread.h>
-#include <gnunet/platform.h>
-#include <gnunet/gnunet_common.h>
-#include <gnunet/gnunet_scheduler_lib.h>
-#include <gnunet/gnunet_network_lib.h>
+#include <gnunet/gnunet_util_lib.h>
 #include "include/gnunet_worker_lib.h"
 #include "requirement.h"
 

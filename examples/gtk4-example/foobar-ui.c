@@ -325,7 +325,7 @@ static void on_foobar_app_activate (
 		ui_data
 	);
 
-	gtk_widget_show(window);
+	gtk_window_present(GTK_WINDOW(window));
 
 	#undef ui_data
 
@@ -355,7 +355,7 @@ void gtk_main_with_gnunet_worker (
 
 	shared_data->ui_app = gtk_application_new(
 		"org.gtk.foobar",
-		G_APPLICATION_FLAGS_NONE
+		G_APPLICATION_DEFAULT_FLAGS
 	);
 
 	g_signal_connect(

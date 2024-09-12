@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include <unistd.h>
+#include <gnunet/gnunet_util_lib.h>
 #include <gnunet/gnunet_worker_lib.h>
-#include <gnunet/gnunet_scheduler_lib.h>
 
 
 static void task_for_the_scheduler_3 (void * const data) {

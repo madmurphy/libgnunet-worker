@@ -38,7 +38,6 @@
 
 #include <time.h>
 #include <stdbool.h>
-#include <gnunet/platform.h>
 #include <gnunet/gnunet_common.h>
 
 

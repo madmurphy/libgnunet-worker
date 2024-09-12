@@ -2,7 +2,6 @@
 
 /*  All functions in this document are launched in the scheduler's thread  */
 
-#include <gnunet/platform.h>
 #include <gnunet/gnunet_util_lib.h>
 #include <gnunet/gnunet_scheduler_lib.h>
 

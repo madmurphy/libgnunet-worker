@@ -41,14 +41,18 @@
 #include <time.h>
 #include <errno.h>
 #include <unistd.h>
+#include <fcntl.h>
 #include <pthread.h>
 #include <libintl.h>
-#include <gnunet/platform.h>
-#include <gnunet/gnunet_scheduler_lib.h>
-#include <gnunet/gnunet_network_lib.h>
+#include <gnunet/gnunet_util_lib.h>
+#include <gnunet/gettext.h>
 #include "include/gnunet_worker_lib.h"
 #include "requirement.h"
 #include "worker.h"
+
+#ifndef _
+#define _(STR) gettext(STR)
+#endif
 
 
 /*

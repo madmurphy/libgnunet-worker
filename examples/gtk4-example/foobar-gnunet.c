@@ -35,7 +35,6 @@
 
 #include <stdio.h>
 #include <stdatomic.h>
-#include <gnunet/platform.h>
 #include <gnunet/gnunet_fs_service.h>
 #include <glib.h>
 #include "foobar-common.h"

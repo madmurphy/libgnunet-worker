@@ -8,7 +8,8 @@ AM_CPPFLAGS = \
 	'-DPACKAGE_DATA_DIR="$(pkgdatadir)"'
 
 AM_CFLAGS = \
-	-Wall\
+	-Wall \
+	-Wextra \
 	-pedantic \
 	-g \
 	-O2 \

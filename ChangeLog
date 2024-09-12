@@ -2,7 +2,16 @@ Change Log
 ==========
 
 
-## 1.0.0 (2022-07-13)
+1.0.1 (2024-09-12)
+------------------
+
+Changes:
+
+* The included headers have been updated everywhere
+
+
+1.0.0 (2022-07-13)
+------------------
 
 Changes:
 
@@ -11,7 +20,8 @@ Changes:
 * The public header has been moved back into the `src` subdirectory
 
 
-## 0.5.0 (2022-02-13)
+0.5.0 (2022-02-13)
+------------------
 
 Changes:
 
@@ -26,7 +36,8 @@ Changes:
 * Examples
 
 
-## 0.4.1 (2022-02-07)
+0.4.1 (2022-02-07)
+------------------
 
 Changes:
 
@@ -35,7 +46,8 @@ Changes:
 * Examples
 
 
-## 0.4.0 (2022-02-01)
+0.4.0 (2022-02-01)
+------------------
 
 Changes:
 
@@ -49,7 +61,8 @@ Changes:
 * Documentation
 
 
-## 0.3.1 (2022-01-29)
+0.3.1 (2022-01-29)
+------------------
 
 Changes:
 
@@ -60,7 +73,8 @@ Changes:
 * Documentation
 
 
-## 0.3.0 (2022-01-27)
+0.3.0 (2022-01-27)
+------------------
 
 Changes:
 
@@ -82,7 +96,8 @@ Changes:
 * Examples
 
 
-## 0.2.0 (2022-01-26)
+0.2.0 (2022-01-26)
+------------------
 
 Changes:
 
@@ -104,7 +119,8 @@ Changes:
 * Examples
 
 
-## 0.1.0 (2022-01-24)
+0.1.0 (2022-01-24)
+------------------
 
 **GNUnet Worker** has been published.
 
